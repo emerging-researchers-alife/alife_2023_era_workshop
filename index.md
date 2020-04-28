@@ -33,11 +33,15 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 ### Scheduled lightning talks
 
-- You could be the first person to sign up!
+| Time Slot | Speaker | Topic | Contact |
+|---|---|---|---|
+| 1 | Be the first to sign up! | TBD | TBD |
 
 ### Academic Karaoke
 
-- You could be the first person to sign up!
+| Time Slot | Speaker | Topic | Contact |
+|---|---|---|---|
+| 1 | Be the first to sign up! | TBD | TBD |
 
 ## Important Dates
 
