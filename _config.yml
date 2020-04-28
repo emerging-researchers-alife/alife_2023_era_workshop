@@ -1,6 +1,6 @@
-title: Minimal theme
+title: 2020 ERA Workshop
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: 2020 Emerging Researchers in Artificial Life Workshop (<a href="http://2020.alife.org/">@ ALife 2020</a>)
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
