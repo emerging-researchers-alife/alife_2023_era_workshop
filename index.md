@@ -54,6 +54,8 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 ## Organizers
 
+Follow us on [Twitter](https://twitter.com/ISALstudents)!
+
 - Daniel Junghans
 - Austin J. Ferguson
 - Acacia Ackles
