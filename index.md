@@ -41,10 +41,10 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 ### Academic Karaoke
 
-| Time Slot | Speaker | Topic | Contact |
-|---|---|---|---|
-| 1 | Acacia Ackles | TBD | TBD |
-| 2 | You! | TBD | TBD |
+| Time Slot | Speaker | Contact |
+|---|---|---|
+| 1 | Acacia Ackles | TBD |
+| 2 | You! | TBD |
 
 ## Important Dates
 
