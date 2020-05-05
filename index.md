@@ -49,7 +49,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 ## Important Dates
 
 - ALife conference: July 13-18, 2020
-  - Register here: [2020.alife.org](2020.alife.org)
+  - Register here: [2020.alife.org](http://2020.alife.org)
 - Workshop: TBD
 
 ## Organizers
