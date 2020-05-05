@@ -35,13 +35,15 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
-| 1 | Be the first to sign up! | TBD | TBD |
+| 1 | Daniel Junghans | TBD | TBD |
+| 2 | You! | TBD | TBD |
 
 ### Academic Karaoke
 
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
-| 1 | Be the first to sign up! | TBD | TBD |
+| 1 | Acacia Ackles | TBD | TBD |
+| 2 | You! | TBD | TBD |
 
 ## Important Dates
 
