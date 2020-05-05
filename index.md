@@ -26,7 +26,7 @@ You do not need to commit to a topic for your lightning talk in order to sign up
 We don't need to know your topic until you present!
 If you do know what you'd like to talk about, however, we'll post the topic/description here.
 
-We will have time for roughly 10 speaking slots for both lightning talks and academic karaoke (allocation will depend on interest).
+We will have time for roughly 10 speaking slots split between lightning talks and academic karaoke (allocation depending on interest).
 Sign-ups are first-come, first-serve, so feel free to sign up as early as you'd like!
 We will be soliciting sign-ups (until full) up until the time of the workshop.
 
