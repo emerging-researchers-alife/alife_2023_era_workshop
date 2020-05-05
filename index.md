@@ -19,8 +19,9 @@ After the workshop, we will compose a brief summary of the general meeting and c
 
 ## Sign up for a research lightning talk or to participate in academic karaoke!
 
-Sign up for a lightning talk slot and/or to participate in academic karaoke by emailing us at
-lalejini@msu.edu or by making a pull request on this [website's GitHub repository](https://github.com/amlalejini/ALife-2020--Emerging-Researchers-in-ALife-Workshop).
+**Sign up for a lightning talk slot and/or to participate in academic karaoke by emailing us at
+lalejini@msu.edu or by making a pull request on this [website's GitHub repository](https://github.com/amlalejini/ALife-2020--Emerging-Researchers-in-ALife-Workshop).**
+
 You do not need to commit to a topic for your lightning talk in order to sign up for a speaking slot.
 We don't need to know your topic until you present!
 If you do know what you'd like to talk about, however, we'll post the topic/description here.
