@@ -24,7 +24,7 @@ The goal of this workshop is to provide a venue for junior researchers to meet, 
 
 ## Sign up for a research lightning talk or to participate in academic karaoke!
 
-**Sign up for a lightning talk slot and/or to participate in academic karaoke by emailing us at amlalejini@gmail.com**
+**Sign up for a lightning talk slot and/or to participate in academic karaoke by emailing us at abrahamjleite@gmail.com**
 
 You do not need to commit to a topic for your lightning talk in order to sign up for a speaking slot.
 We don't need to know your topic until you present!
