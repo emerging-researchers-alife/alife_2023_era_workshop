@@ -50,7 +50,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 ## Important Dates
 
-- ALife conference:
+- ALife conference: July 19-23, 2021
   - Register here: <https://www.robot100.cz/registration>
 - Workshop: TBD
 
