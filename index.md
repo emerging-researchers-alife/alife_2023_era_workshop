@@ -40,7 +40,8 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
-| 1 | You! | TBD | TBD |
+| 1 | Aymeric Vié | Population network structure impacts genetic algorithm optimisation performance | vie@maths.ox.ac.uk |
+| 2 | You! | TBD | TBD |
 
 ### Academic Karaoke
 
