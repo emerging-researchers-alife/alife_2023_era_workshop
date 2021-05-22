@@ -12,13 +12,15 @@ The goal of this workshop is to provide a venue for junior researchers to meet, 
 
 ## Schedule
 
-- **General information about the ERA**
+- **General information about the ERA** (15-20 minutes)
   - We will begin with a brief informational discussion about ERA, including an introduction by the current elected chairs, an overview on how to get involved in the group, discussions of events and activities junior researchers would like to see organized by the group, and a request for nominations for 2021-2022 ERA chairs.
   - Additionally, we will announce any upcoming ERA-organized social events planned during the conference.
-- **Research lightning talks**
+- **Invited talk by the 2021 Outstanding Student Paper Award recipient** (pending accepted invitation, 30 minutes)
+  - We will host an research talk from the recipient of the 2021 Outstanding Student Paper award. 
+- **Research lightning talks** (30-40 minutes)
   - To give junior ALife researchers a minimal-barrier-to-entry venue to share their research with peers, we are offering sign-ups to give lightning talks on research at any stage of development, ranging from rough ideas for future projects to already published work.
   - [**Sign up for a lightning talk slot below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
-- **Academic karaoke**
+- **Academic karaoke** (30-40 minutes)
   - Academic karaoke is an entertaining improvisational social activity where participants present a series of ALife-themes slides that they have never seen before! The presenter's goal is to give an improvisational talk on-the-fly. Last year’s academic karaoke featured participants making unexpected connections across ALife's many disciplines, as well as much laughter.
   - [**Sign up for academic karaoke below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
 
