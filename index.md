@@ -57,7 +57,8 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 - ALife conference: July 19-23, 2021
   - Register here: <https://www.robot100.cz/registration>
-- Workshop: TBD
+- Workshop: July 20th, 2021
+  - 3PM CET (9AM EDT)
 
 ## Organizers
 
