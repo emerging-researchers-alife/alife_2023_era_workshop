@@ -47,7 +47,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 | 3 | Federico Pigozzi | Modularity for voxel-based soft robots | pigozzife@gmail.com |
 | 4 | Kevin Frans | TBD | kvfrans@mit.edu |
 | 5 | Austin Marcus | Merleau-Ponty's *The Structure of Behavior* and ALife | bwvxnt@gmail.com |
-| 5 | You! | TBD | TBD |
+| 6 | You! | TBD | TBD |
 
 ### Academic Karaoke
 
