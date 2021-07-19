@@ -55,7 +55,7 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 |---|---|
 | 1 | Acacia Ackles |
 | 2 | Kevin Frans |
-| 3 | You! |
+| 3 | Aakriti Hariprakash |
 
 ## Important Dates
 
