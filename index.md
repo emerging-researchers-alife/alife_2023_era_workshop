@@ -15,7 +15,7 @@ The goal of this workshop is to provide a venue for junior researchers to meet, 
 - **General information about the ERA** (15-20 minutes)
   - We will begin with a brief informational discussion about ERA, including an introduction by the current elected chairs, an overview on how to get involved in the group, discussions of events and activities junior researchers would like to see organized by the group, and a request for nominations for 2021-2022 ERA chairs.
   - Additionally, we will announce any upcoming ERA-organized social events planned during the conference.
-- **Invited talk by the 2021 Outstanding Student Paper Award recipient** (pending accepted invitation, 30 minutes)
+- **Invited talk by the 2021 Outstanding Student Paper Award recipient** (30 minutes)
   - We will host an research talk from the recipient of the 2021 Outstanding Student Paper award. 
 - **Research lightning talks** (30-40 minutes)
   - To give junior ALife researchers a minimal-barrier-to-entry venue to share their research with peers, we are offering sign-ups to give lightning talks on research at any stage of development, ranging from rough ideas for future projects to already published work.
@@ -45,13 +45,16 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 | 1 | Aymeric Vié | Population network structure impacts genetic algorithm optimisation performance | vie@maths.ox.ac.uk |
 | 2 | Thomas Chen | Human posture recognition enabled by computer vision | thomaschen7@acm.org |
 | 3 | Federico Pigozzi | Modularity for voxel-based soft robots | pigozzife@gmail.com |
-| 4 | You! | TBD | TBD |
+| 4 | Kevin Frans | TBD | kvfrans@mit.edu |
+| 5 | You! | TBD | TBD |
 
 ### Academic Karaoke
 
 | Time Slot | Speaker |
 |---|---|
 | 1 | Acacia Ackles |
+| 2 | Kevin Frans |
+| 3 | You! |
 
 ## Important Dates
 
