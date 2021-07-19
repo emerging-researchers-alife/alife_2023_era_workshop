@@ -49,9 +49,9 @@ If you have any questions feel free to email us (or, file [an issue on GitHub](h
 
 ### Academic Karaoke
 
-| Time Slot | Speaker | Contact |
-|---|---|---|
-| 1 | You! | TBD |
+| Time Slot | Speaker |
+|---|---|
+| 1 | Acacia Ackles |
 
 ## Important Dates
 
