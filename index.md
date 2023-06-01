@@ -17,17 +17,17 @@ The goal of this workshop is to provide a venue for junior researchers to meet, 
   - We will begin with a brief informational discussion about ERA, including an introduction by the current elected chairs, an overview on how to get involved in the group, discussions of events and activities junior researchers would like to see organized by the group, and a request for nominations for 2023-2024 ERA chairs.
   - Additionally, we will announce any upcoming ERA-organized social events planned during the conference.
 - **Invited talk by the 2023 Outstanding Student Paper Award recipient** (30 minutes)
-  - We will host an research talk from the recipient of the 2023 Outstanding Student Paper award. 
+  - We will host a research talk from the recipient of the 2023 Outstanding Student Paper award. 
 - **Research lightning talks** (30-40 minutes, 5-7 minutes each)
   - To give junior ALife researchers a minimal-barrier-to-entry venue to share their research with peers, we are offering sign-ups to give lightning talks on research at any stage of development, ranging from rough ideas for future projects to already published work.
   - [**Sign up for a lightning talk slot below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
 - **Academic karaoke** (30-40 minutes, 5-7 minutes each)
-  - Academic karaoke is an entertaining improvisational social activity where participants present a series of ALife-themes slides that they have never seen before! The presenter's goal is to give an improvisational talk on-the-fly. We've held academic karaoke the last three years, and each year had hilarious talks and lots of aughter! 
+  - Academic karaoke is an entertaining improvisational social activity where participants present a series of ALife-themed slides that they have never seen before! The presenter's goal is to give an improvisational talk on-the-fly. We've held academic karaoke the last three years, and each year had hilarious talks and lots of laughter! 
   - [**Sign up for academic karaoke below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
 
 ## Sign up for a research lightning talk or to participate in academic karaoke!
 
-**Sign up for a lightning talk slot and/or to participate in academic karaoke by emailing us at emerging.researchers.alife@gmail.com**
+**Sign up for a lightning talk slot and/or to participate in academic karaoke by emailing us at emerging.researchers.alife@gmail.com or reaching out to us on the Discord!**
 
 You do not need to commit to a topic for your lightning talk in order to sign up for a speaking slot.
 We don't need to know your topic until you present!
@@ -37,7 +37,7 @@ We should have time for roughly 10 speaking slots split between lightning talks 
 Sign-ups are first-come, first-serve, so feel free to sign up as early as you'd like!
 We will be accepting sign-ups up until the time of the workshop or until all slots have been filled.
 
-If you have any questions feel free to email us at emerging.researchers.alife@gmail.com.
+If you have any questions feel free to email us at emerging.researchers.alife@gmail.com or reach out on the Discord (link below!).
 
 ### Lightning talks
 
@@ -57,7 +57,11 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
   - Website: <https://2023.alife.org/>
 - Workshop: Time and date to be determined
 
-## Organizers
+## Organizers and contact info
+
+It's easiest to reach us on the [ERA Discord server](https://discord.gg/m3qvuXgkZ7)! Communication about this workshop will likely be in the #conference channel. 
+
+Otherwise, you can direct questions to us at emerging.researchers.alife@gmail.com. 
 
 Follow us on [Twitter](https://twitter.com/ISALstudents)!
 - Federico Pigozzi
