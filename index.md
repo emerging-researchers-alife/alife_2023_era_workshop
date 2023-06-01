@@ -43,7 +43,7 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
-| 1 | You! | TBD | TBD |
+| 1 | Nanako Shimaoka | TBD | TBD |
 
 ### Academic Karaoke
 
