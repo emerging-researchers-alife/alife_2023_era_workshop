@@ -44,13 +44,14 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
 | 1 | Nanako Shimaoka | TBD | TBD |
-| 2 | Zachary Laborde | TBD | TBD |
+| 2 | You! | TBD | TBD |
 
 ### Academic Karaoke
 
 | Time Slot | Speaker |
 |---|---|
-| 1 | You! |
+| 1 | Zachary Laborde |
+| 2 | You! |
 
 ## Important Dates
 
