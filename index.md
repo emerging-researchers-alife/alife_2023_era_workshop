@@ -44,7 +44,8 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
 | 1 | Nanako Shimaoka | TBD | TBD |
-| 2 | You! | TBD | TBD |
+| 2 | Alexandre Champagne-Ruel | TBD | TBD |
+| 3 | You! | TBD | TBD |
 
 ### Academic Karaoke
 
