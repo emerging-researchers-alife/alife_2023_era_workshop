@@ -45,7 +45,7 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 |---|---|---|---|
 | 1 | Nanako Shimaoka | TBD | TBD |
 | 2 | Alexandre Champagne-Ruel | TBD | TBD |
-| 3 | You! | TBD | TBD |
+| 3 | Georgina Montserrat Reséndiz-Benhumea | TBD | gmontserb@comunidad.unam.mx |
 
 ### Academic Karaoke
 
