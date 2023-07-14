@@ -46,13 +46,15 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 | 1 | Nanako Shimaoka | TBD | TBD |
 | 2 | Alexandre Champagne-Ruel | TBD | TBD |
 | 3 | Georgina Montserrat Reséndiz-Benhumea | TBD | gmontserb@comunidad.unam.mx |
+| 4 | You! | | |
 
 ### Academic Karaoke
 
 | Time Slot | Speaker |
 |---|---|
 | 1 | Zachary Laborde |
-| 2 | You! |
+| 2 | Chris Reeves |
+| 3 | You! |
 
 ## Important Dates
 
