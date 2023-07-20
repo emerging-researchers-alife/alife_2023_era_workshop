@@ -46,7 +46,8 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 | 1 | Nanako Shimaoka | TBD | TBD |
 | 2 | Alexandre Champagne-Ruel | TBD | TBD |
 | 3 | Georgina Montserrat Reséndiz-Benhumea | TBD | gmontserb@comunidad.unam.mx |
-| 4 | You! | | |
+| 4 | Thomas Willkens | Evolutionary trajectory visualization | TBD|
+| 5 | You! | | |
 
 ### Academic Karaoke
 
