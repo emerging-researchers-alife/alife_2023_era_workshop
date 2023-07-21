@@ -43,10 +43,10 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
-| 1 | Nanako Shimaoka | TBD | TBD |
-| 2 | Alexandre Champagne-Ruel | TBD | TBD |
-| 3 | Georgina Montserrat Reséndiz-Benhumea | TBD | gmontserb@comunidad.unam.mx |
-| 4 | Thomas Willkens | Evolutionary trajectory visualization | TBD|
+| 1 | Nanako Shimaoka | TBD | shimaoka.nanako.x1 (at) s.mail.nagoya-u.ac.jp |
+| 2 | Georgina Montserrat Reséndiz-Benhumea | TBD | gmontserb (at) comunidad.unam.mx |
+| 3 | Thomas Willkens | Evolutionary trajectory visualization | twillkens (at) brandeis.edu |
+| 4 | Stavros Anagnou | TBD | TBD |
 | 5 | You! | | |
 
 ### Academic Karaoke
