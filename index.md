@@ -47,6 +47,7 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 | 2 | Georgina Montserrat Reséndiz-Benhumea | TBD | gmontserb (at) comunidad.unam.mx |
 | 3 | Thomas Willkens | Evolutionary trajectory visualization | twillkens (at) brandeis.edu |
 | 4 | Stavros Anagnou | TBD | TBD |
+| 5 | Ryan Bahlous-Boldi | TBD | rbahlousbold (at) umass.edu
 | 5 | You! | | |
 
 ### Academic Karaoke
