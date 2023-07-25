@@ -48,7 +48,6 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 | 3 | Thomas Willkens | Evolutionary trajectory visualization | twillkens (at) brandeis.edu |
 | 4 | Stavros Anagnou | TBD | TBD |
 | 5 | Ryan Boldi | TBD | rbahlousbold (at) umass.edu
-| 5 | You! | | |
 
 ### Academic Karaoke
 
@@ -56,7 +55,8 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 |---|---|
 | 1 | Zachary Laborde |
 | 2 | Chris Reeves |
-| 3 | You! |
+| 3 | Aidan Barbieux |
+| 4+ | Potential walk-ons, depending on time |
 
 ## Important Dates
 
