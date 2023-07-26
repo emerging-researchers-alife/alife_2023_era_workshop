@@ -16,12 +16,12 @@ The goal of this workshop is to provide a venue for junior researchers to meet, 
 - **General information about the ERA** (15-20 minutes)
   - We will begin with a brief informational discussion about ERA, including an introduction by the current elected chairs, an overview on how to get involved in the group, discussions of events and activities junior researchers would like to see organized by the group, and a request for nominations for 2023-2024 ERA chairs.
   - Additionally, we will announce any upcoming ERA-organized social events planned during the conference.
-- **Invited talk by the 2023 Outstanding Student Paper Award recipient** (30 minutes)
-  - We will host a research talk from the recipient of the 2023 Outstanding Student Paper award. 
-- **Research lightning talks** (30-40 minutes, 5-7 minutes each)
+- **Announcement of the 2023 Outstanding Student Paper Award recipient** (5 minutes)
+- **A look into the ALife Career of Olaf Witkowski** (15 minutes + questions)
+- **Research lightning talks** (35 minutes, 7 minutes each)
   - To give junior ALife researchers a minimal-barrier-to-entry venue to share their research with peers, we are offering sign-ups to give lightning talks on research at any stage of development, ranging from rough ideas for future projects to already published work.
   - [**Sign up for a lightning talk slot below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
-- **Academic karaoke** (30-40 minutes, 5-7 minutes each)
+- **Academic karaoke** (15-??? minutes, 5 minutes each)
   - Academic karaoke is an entertaining improvisational social activity where participants present a series of ALife-themed slides that they have never seen before! The presenter's goal is to give an improvisational talk on-the-fly. We've held academic karaoke the last three years, and each year had hilarious talks and lots of laughter! 
   - [**Sign up for academic karaoke below**](#sign-up-for-a-research-lightning-talk-or-to-participate-in-academic-karaoke)
 
@@ -43,26 +43,26 @@ If you have any questions feel free to email us at emerging.researchers.alife@gm
 
 | Time Slot | Speaker | Topic | Contact |
 |---|---|---|---|
-| 1 | Nanako Shimaoka | TBD | shimaoka.nanako.x1 (at) s.mail.nagoya-u.ac.jp |
-| 2 | Georgina Montserrat Reséndiz-Benhumea | TBD | gmontserb (at) comunidad.unam.mx |
-| 3 | Thomas Willkens | Evolutionary trajectory visualization | twillkens (at) brandeis.edu |
-| 4 | Stavros Anagnou | TBD | TBD |
-| 5 | Ryan Boldi | TBD | rbahlousbold (at) umass.edu
+| 1 | Nanako Shimaoka | Soft robot design based on coevolution of morphology, material and control | shimaoka.nanako.x1 (at) s.mail.nagoya-u.ac.jp |
+| 2 | Georgina Montserrat Reséndiz-Benhumea | The Clash of Agents' Worlds: A 4E Cognition Perspective on Social Ontogeny | gmontserb (at) comunidad.unam.mx |
+| 3 | Thomas Willkens | ADDRESSA: Visualizing and Analyzing Evolutionary Trajectories of Graph-Structured Data | twillkens (at) brandeis.edu |
+| 4 | Stavros Anagnou | The effect of noise on the emergence of norms and its evolutionary dynamics | s.anagnou (at) herts.ac.uk |
+| 5 | Ryan Boldi | The emergence of diversity | rbahlousbold (at) umass.edu
 
 ### Academic Karaoke
 
 | Time Slot | Speaker |
 |---|---|
-| 1 | Zachary Laborde |
+| 1 | Aidan Barbieux |
 | 2 | Chris Reeves |
-| 3 | Aidan Barbieux |
+| 3 | Zachary Laborde |
 | 4+ | Potential walk-ons, depending on time |
 
 ## Important Dates
 
 - ALife conference: July 24-28, 2023
   - Website: <https://2023.alife.org/>
-- Workshop: Time and date to be determined
+- Workshop: July 26th @ 17:10
 
 ## Organizers and contact info
 
